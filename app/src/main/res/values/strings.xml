@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercicio3AR</string>
+    <string name="processar">PROCESSAR IMAGEM</string>
+    <string name="imagem_processada">imagem com a detecção de face</string>
+</resources>
